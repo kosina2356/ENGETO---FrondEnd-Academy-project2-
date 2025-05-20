@@ -1,1 +1,1 @@
-# ENGETO---FrondEnd-Academy-project2-
+Projekt je zaměřený na HTML, CSS, Javascript
